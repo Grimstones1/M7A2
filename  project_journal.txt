@@ -29,3 +29,11 @@ Reflection Question:
 What worked well or was challenging when building a sentence from user input?
 
 Answer: Since the sentence required a decent amount of user input, I found that writing my code in an organized fashion help immensely. For each word, the console would explain what type of word it needs, then assign the next line of user input to a String.
+
+--------------------------------
+Stage 3: Template with Placeholders
+--------------------------------
+Reflection Question:
+How does using a template string make your program more flexible or professional?
+
+Answer: Using a template string gives an easy way to adjust how user input will be used, by simply changing the string and moving the placeholders.
