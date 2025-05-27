@@ -14,3 +14,11 @@ Reflection Question:
 What did you notice about how GitHub Desktop tracks your files?
 
 Answer: It specifies when a file has been changed since the last commit, which I find very useful.
+
+--------------------------------
+Stage 1: Hardcoded Story
+--------------------------------
+Reflection Question:
+What types of words did you use, and how did formatting help your sentence feel more complete?
+
+Answer: I used simple and short words that fulfilled the requirements. My sentence was correctly formatted so that it is easy to read.
