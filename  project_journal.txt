@@ -37,3 +37,11 @@ Reflection Question:
 How does using a template string make your program more flexible or professional?
 
 Answer: Using a template string gives an easy way to adjust how user input will be used, by simply changing the string and moving the placeholders.
+
+--------------------------------
+Stage 4: Multiple Random Templates
+--------------------------------
+Reflection Question:
+How does adding randomness and looping improve the experience? What would you improve?
+
+Answer: Randomness and looping allows the player to play multiple times with a fresh experience. I'd improve this by adding the ability to ask for multiple of the same word type depending on the placeholder.
